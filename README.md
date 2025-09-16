@@ -36,7 +36,7 @@ The Main Menu allows the players to navigate to Play Menu and the Help and About
 In the Play Menu, players can change game difficulty and the mutation rate of the Genetic Algorithm. Changing game difficulty adjusts parameters such as player firing rate and enemy firing rate. Increasing the mutation rate will cause more genes to be mutated and thus, causing more diversification in the population. With a higher mutation rate, players will see more variations across the episodes.
 
 <p align="center">
-  <img width="640" height="480" src="https://raw.githubusercontent.com/a-dark-wizard/Adaptive-Gameplay/master/Images/Game_Screenshot.png" alt="Game Screenshot">
+  <img width="640" height="480" src="https://raw.githubusercontent.com/a-dark-wizard/Adaptive-Gameplay/master/Images/Play_Menu.png" alt="Play Menu">
 </p>
 
 
@@ -44,4 +44,6 @@ In the Play Menu, players can change game difficulty and the mutation rate of th
 
 In-Game screenshot of Evolving Enemies
 
-
+<p align="center">
+  <img width="640" height="480" src="https://raw.githubusercontent.com/a-dark-wizard/Adaptive-Gameplay/master/Images/Game_Screenshot.png" alt="Game Screenshot">
+</p>
