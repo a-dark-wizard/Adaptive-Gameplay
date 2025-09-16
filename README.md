@@ -6,7 +6,7 @@ This code uses the concepts of Genetic Algorithms such as Selection, Crossover a
 The entire behavior of the enemy is coded in the structure of a chromosome.
 
 <p align="center">
-  <img width="650" height="300" src="https://github.com/NeonInc/Adaptive-Gameplay/blob/master/Images/Chromosome_Attributes.png">
+  <img width="650" height="300" src="https://github.com/a-dark-wizard/Adaptive-Gameplay/Images/Chromosome_Attributes.png">
 </p>
 
 Genes 0 - 5 are in binary format with 0 being the respective option disabled and 1 being being the respective option enabled.
